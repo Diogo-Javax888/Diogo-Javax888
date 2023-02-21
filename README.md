@@ -22,15 +22,16 @@
 <img width="50em" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img width="50em" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img width="50em" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img width="100em" height="100em" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/7ec6640a07237e091f3fe6a946e41373-1647549880/philippegend%2010x%20animated/create-professional-pixel-art-illustrations-and-animations.gif" />
+ 
+<img align="right" width="200em" height="200em" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/7ec6640a07237e091f3fe6a946e41373-1647549880/philippegend%2010x%20animated/create-professional-pixel-art-illustrations-and-animations.gif" />
 </div>
 
 ## 
 
 ## Contatos
 <div>
-<a href="https://github.com/Diogo-Javax888" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/diogodesouzabarbosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="mailto:diogosouzabarbosa09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://github.com/Diogo-Javax888" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/></a>
+<a href="https://www.linkedin.com/in/diogodesouzabarbosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+<a href="mailto:diogosouzabarbosa09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
 </a>
 </div>
