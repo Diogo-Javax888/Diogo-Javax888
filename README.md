@@ -25,6 +25,8 @@
 <img width="50em" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img width="50em" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img width="50em" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img width="50em" height="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+
  
 <img align="right" width="200em" height="200em" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/7ec6640a07237e091f3fe6a946e41373-1647549880/philippegend%2010x%20animated/create-professional-pixel-art-illustrations-and-animations.gif" />
 </div>
