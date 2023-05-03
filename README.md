@@ -41,4 +41,4 @@
 </a>
 </div>
 
-![Snake animation](https://github.com/Diogo-Javax888/Diogo-Javax888/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DiSouzaDev/DiSouzaDev/blob/output/github-contribution-grid-snake.svg)
