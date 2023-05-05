@@ -6,8 +6,8 @@
 
 <div align="center">
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiSouzaDev&show_icons=true&theme=dracula&line_height=20px)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiSouzaDev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats-alpha-two-25.vercel.app/api?username=DiSouzaDev&show_icons=true&theme=dracula&line_height=20px)
+ [![Top Langs](https://github-readme-stats-alpha-two-25.vercel.app/api/top-langs/?username=DiSouzaDev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
 
